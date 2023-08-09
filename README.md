@@ -18,6 +18,7 @@ The E.U.R.O project aims to demonstrate the various principles of embedded syste
 1. Clone the repository:
    ```
    git clone https://github.com/MostKhalifa/Embedded-Arduino-Project.git
+   
    ```
 
 2. Install Arduino
