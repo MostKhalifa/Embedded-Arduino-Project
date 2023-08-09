@@ -25,8 +25,8 @@ The E.U.R.O project aims to demonstrate the various principles of embedded syste
 3. Burn the E.U.R.O.ino on your choice of an Arduino board 
 <h1>Authors</h1>
 <ul>
-  <li><a href="https://github.com/karim-walid-wahdan">Karim Wahdan</a></li>
   <li><a href="https://github.com/MostKhalifa">Mostafa Khalifa</a></li>
+  <li><a href="https://github.com/karim-walid-wahdan">Karim Wahdan</a></li>
 </ul>
 ## Contributing
 
